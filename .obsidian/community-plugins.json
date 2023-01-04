@@ -1,5 +1,8 @@
 [
   "OA-file-hider",
-  "obsidian-hider",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-admonition",
+  "dataview",
+  "recent-files-obsidian",
+  "obsidian-hider"
 ]

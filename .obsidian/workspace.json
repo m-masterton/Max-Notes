@@ -60,8 +60,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "97db90198f335209",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,7 +155,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "da9da4ad3a3ae8e6",
+  "active": "97db90198f335209",
   "lastOpenFiles": [
     "Templates/Note Template.md",
     "Test Note.md",
