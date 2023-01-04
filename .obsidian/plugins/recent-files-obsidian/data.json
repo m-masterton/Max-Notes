@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Buses",
+      "path": "Zettlekasten/Buses.md"
+    },
+    {
+      "basename": "ALU (Arithmetic Logic Unit)",
+      "path": "Zettlekasten/ALU (Arithmetic Logic Unit).md"
+    },
+    {
       "basename": "Registers",
       "path": "Zettlekasten/Registers.md"
     },
     {
       "basename": "CU (Control Unit)",
       "path": "Zettlekasten/CU (Control Unit).md"
-    },
-    {
-      "basename": "ALU (Arithmetic Logic Unit)",
-      "path": "Zettlekasten/ALU (Arithmetic Logic Unit).md"
     },
     {
       "basename": "CPU (Central Processing Unit)",

@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e60393ab6b43b6f0",
+            "id": "73d70c416f8a11cb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Buses.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86e9c5cf6d67905b",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettlekasten/Buses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettlekasten/Buses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettlekasten/Buses.md"
+              }
             }
           },
           {
@@ -154,17 +163,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e60393ab6b43b6f0",
+  "active": "73d70c416f8a11cb",
   "lastOpenFiles": [
+    "Zettlekasten/ALU (Arithmetic Logic Unit).md",
+    "Zettlekasten/Buses.md",
     "Zettlekasten/Registers.md",
     "Zettlekasten/CU (Control Unit).md",
     "Zettlekasten/Computer Science.md",
-    "Zettlekasten/ALU (Arithmetic Logic Unit).md",
     "Zettlekasten/CPU (Central Processing Unit).md",
     "Zettlekasten/Untitled 1.md",
     "Templates/Zettle Note Template.md",
     "Templates/MOC Template.md",
-    "Zettlekasten/Test File.md",
-    "Templates/Note Template.md"
+    "Zettlekasten/Test File.md"
   ]
 }
