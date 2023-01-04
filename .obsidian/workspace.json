@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7593235633b0a539",
+        "id": "364c3b1b6134bdb9",
         "type": "tabs",
         "children": [
           {
-            "id": "09add0a59bf70705",
+            "id": "6a8f7cbf56aa6ab9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "09add0a59bf70705",
+  "active": "da9da4ad3a3ae8e6",
   "lastOpenFiles": [
+    "Templates/Note Template.md",
     "Test Note.md",
     "Templates/Untitled.md"
   ]
