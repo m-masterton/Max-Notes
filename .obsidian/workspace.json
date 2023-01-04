@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "364c3b1b6134bdb9",
+        "id": "2eb982bc81dc97aa",
         "type": "tabs",
         "children": [
           {
-            "id": "6a8f7cbf56aa6ab9",
+            "id": "1f11203e45b637de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Test File.md",
+                "file": "Templates/Core Zettel Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Test File.md",
+                "file": "Templates/Core Zettel Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/Test File.md",
+                "file": "Templates/Core Zettel Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/Test File.md"
+                "file": "Templates/Core Zettel Note.md"
               }
             }
           },
@@ -163,10 +163,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6a8f7cbf56aa6ab9",
+  "active": "1f11203e45b637de",
   "lastOpenFiles": [
+    "Zettlekasten/Untitled.md",
+    "Zettlekasten/Test File.md",
     "Templates/Note Template.md",
     "Test Note.md",
-    "Templates/Untitled.md"
+    "Templates/Core Zettel Note.md"
   ]
 }

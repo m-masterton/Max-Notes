@@ -23,6 +23,30 @@
       "title": "Proposition",
       "injectColor": true,
       "noTitle": false
+    },
+    "proof": {
+      "type": "proof",
+      "color": "166, 196, 108",
+      "icon": {
+        "name": "hammer",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Proof",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "eg": {
+      "type": "eg",
+      "color": "57, 167, 138",
+      "icon": {
+        "name": "question",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Example",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
