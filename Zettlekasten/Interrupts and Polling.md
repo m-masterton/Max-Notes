@@ -23,6 +23,8 @@ It is similar in the CPU where the program currently running will be checking re
 >[!defi] Definition (Interrupt)
 >An **Interrupt** is a signal for the CPU to stop doing what it is doing and instead carry out the interrupt task. Once the task is complete, the CPU goes back to doing whatever it was doing before.
 
-The CPU is running its current program an interrupt arrives.
+When the CPU receives an interrupt signal, it comes with a **priority label** telling the CPU how urgent the interrupt task is. If the interrupt has a higher priority than the current process, the CPU will suspend the current process by putting the values of the program counter (and each register onto the system stack, while an **Interrupt Service Routine** is called to deal with the interrupt task. Once the interrupt has been serviced, the original values of the registers are restored from the stack and the process resumes from the point it left off.
+
+Note that lower priority interrupts may be disabled while a higher priority interrupt is serviced.
 ___
 ### References
