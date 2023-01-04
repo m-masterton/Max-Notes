@@ -9,6 +9,40 @@ Modern computer systems are **multi-tasking** meaning that many different progra
 Note that on a single core computers, only one task can be executed on the CPU at any given time. Therefore, to appear as if the computer is multi-tasking it must rapidly switch between different tasks. The piece of software used to allocate CPU time to make this possible is a **scheduler**.
 
 >[!defi] Definition (Scheduler)
->The **scheduler** is an operating system module responsible for making sure that processor time is used as efficiently as possible
+>The **scheduler** is an [[Function of Operating Systems|operating system]] module responsible for making sure that processor time is used as efficiently as possible.
+
+The scheduler has a few main goals:
++ maximise throughput
++ be fair to all users on a multi-user system
++ provide acceptable response time to users
++ ensure hardware resources are kept as busy as possible
+
+The ideal scheduler would be one that is making 100% use of the CPU, no processes are left hanging around and the user is never aware of a time delay. There are a few algorithms that try to accomplish this:
+
+### Round Robin
+
+With the **Round Robin** scheduling algorithm, a queue is made holding all processes that are ready to run. When the first process is loaded into memory, it is given a set amount of CPU time to use. If the process is completed during the allocated time then the next process is loaded immediately. If the process is not finished when the time expired, it is put at the back of the queue.
+
+In order to do this, the [[Function of Operating Systems|operating system]] sets an **interrupting clock / interval timer** to generate interrupts at specific times. This method of scheduling helps to guarantee a reasonable response time.
+
+Note that in round robin scheduling, processes are dispatched on a first in first out (FIFO) basis.
+
+Advantages:
+1. It is fairly simple to implement
+2. Helps to guarantee a reasonable response time, effective if all processes are of similar priority and size
+
+Disadvantages:
+1. It does not take into account how important a process is. An important, high priority process will have to wait just as long as an unimportant, low priority process
+2. If an important process is long, it will take forever to finish
+
+### First Come First Served
+
+Fairly self explanatory, each process is lined up in a first in first out (FIFO) queue and the processes are allowed to run until they are completed.
+
+Advantages:
+1. Very simple to implement
+2. Once a process starts, it will run to completition in minimal time
+
+
 ___
 ### References
