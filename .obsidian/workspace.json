@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a99f07afdddf91b4",
+        "id": "7593235633b0a539",
         "type": "tabs",
         "children": [
           {
-            "id": "4fcc6dc3d8802ab0",
+            "id": "09add0a59bf70705",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,8 +120,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "dc260936b1da9808",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -137,8 +146,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "da9da4ad3a3ae8e6",
+  "active": "09add0a59bf70705",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Test Note.md",
+    "Templates/Untitled.md"
   ]
 }
