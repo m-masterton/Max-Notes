@@ -23,7 +23,7 @@ The ideal scheduler would be one that is making 100% use of the CPU, no jobs are
 
 With the **Round Robin** scheduling algorithm, a queue is made holding all jobs that are ready to run. When the first job is loaded into memory, it is given a set amount of CPU time to use. If the job is completed during the allocated time then the next job is loaded immediately. If the process is not finished when the time expired, it is put at the back of the queue.
 
-In order to do this, the [[Function of Operating Systems|operating system]] sets an **interrupting clock / interval timer** to generate interrupts at specific times. This method of scheduling helps to guarantee a reasonable response time.
+In order to do this, the [[Function of Operating Systems|operating system]] sets an **interrupting clock / interval timer** to generate [[Interrupts and Polling|interrupts]] at specific times. This method of scheduling helps to guarantee a reasonable response time.
 
 Note that in round robin scheduling, processes are dispatched on a first in first out (FIFO) basis.
 

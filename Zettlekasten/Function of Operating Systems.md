@@ -7,7 +7,7 @@ ___
 ### Purpose of an Operating System
 
 >[!defi] Definition (Operating System)
->An **operating system** is a piece of software that lets people interact with a computer and manages computer hardware and software resources. It also provides services for computer programs. Common examples include Microsoft Windows, macOS, Linux, iOS and Android.
+>An **operating system (OS)** is a piece of software that lets people interact with a computer and manages computer hardware and software resources. It also provides services for computer programs. Common examples include Microsoft Windows, macOS, Linux, iOS and Android.
 
 Operating systems need to:
 + Control the hardware of a computer system
@@ -30,7 +30,7 @@ The operating system has four main parts:
 
 The kernel has the task of:
 + [[Memory Management]]
-+ Scheduling
++ [[Processor Scheduling]]
 + [[Interrupts and Polling|Handling Interrupts]]
 + File Storage and File Management
 
@@ -59,6 +59,10 @@ An operating system will also contain a number of utilities which have a specifi
 + Anti-Virus utility
 + Disk Defragmentation utility
 + File Compression utility
+
+### Types of Operating Systems
+
+There are lots of different types of operating systems, more about that [[Types of Operating Systems|here]].
 
 ___
 ### References

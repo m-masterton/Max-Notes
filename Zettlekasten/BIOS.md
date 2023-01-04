@@ -17,8 +17,23 @@ Booting has to happen in small steps because at the point of switch-on the machi
 
 The BIOS is normally flashed on a BIOS chip on the motherboard. The chip contains non-volatile memory.
 
-The fundamental purpose of the BIOS in modern computers is to initialise and te
+The fundamental purpose of the BIOS in modern computers is to initialise and test the system hardware components and load the operating system (or key parts of it) from the hard disk into RAM. This test is called **POST**:
 
+>[!defi] Definition (POST)
+>**POST (Power On Self-Test)** is a set of hardware and system health checks conducted by the BIOS. The POST checks include:
+>+ BIOS is not corrupted (not really an issue on modern computers)
+>+ System chips are OK (for example the interrupt controller)
+>+ Processor is OK
+>+ Memory is OK
+>+ Keyboard is present
+>+ Video Display Memory is OK
+
+After POST the BIOS looks for a bootable drive and the [[Function of Operating Systems|operating system]] is loaded from the drive by the boot loader.
+
+In older computers the BIOS was used to provide an abstraction layer which allowed for a consistent way for application programs and the operating system to interact with I/O devices (hence the name). However, more modern computers do not use the BIOS after loading the operating system.
 
 ___
 ### References
+
+PG Online - A-Level OCR Computer Science Textbook - Page 38
+[Teach-ICT - Operating System - BIOS](https://teach-ict.com/2016/A_Level_Computing/OCR_H446/1_2_software/121_operating_systems/bios/miniweb/index.php)
