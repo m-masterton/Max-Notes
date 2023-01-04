@@ -37,7 +37,7 @@ Disadvantages:
 
 ### First Come First Served
 
-Fairly self explanatory, each process is lined up in a first in first out (FIFO) queue and the processes are allowed to run until they are completed.
+In a **First Come First Served** scheduling algorithm, each process is lined up in a first in first out (FIFO) queue and the processes are allowed to run until they are completed.
 
 Advantages:
 1. Very simple to implement
@@ -46,17 +46,34 @@ Advantages:
 Disadvantages:
 1. Once a job starts it prevents other jobs from being processed until it is completed
 2. A job that needs access to a slow resource (for example a printer) wastes processor time whilst it is waiting for that resource
-3. It does not take into account the priority of a process.
+3. It does not take into account how important a job is. An important, high priority job will have to wait just as long as an unimportant, low priority job
 4. A long job will delay all the processes in the queue behind it
 
 ### Shortest Job First
 
-Each job's length is measured (in number of Fetch-Decode-Execute cycles) and lined up in a queue or increasing order or job length. The shortest job is executed first and so on.
+In a **Shortest Job First** scheduling algorithm, each job's length is measured (in number of Fetch-Decode-Execute cycles) and lined up in a queue or increasing order or job length. The shortest job is executed first and so on.
 
 Advantages:
 1. It ensures that the maximum number of jobs are completed
 2. It ensures that short jobs aren't kept waiting
+3. It minimises the average time a process takes to complete
 
+Disadvantages:
+1. It does not take into account how important a job is. An important, high priority job will have to wait just as long as an unimportant, low priority job
+2. If a long job is nearly completed, it will still be interrupted and put back in the queue when a shorter job arrives.
+3. The scheduler can only estimate how long a job will take to complete, but the estimation could be inaccurate.
+4. Long jobs may never complete if short jobs continually keep 'jumping the queue'.
 
+### Shortest Remaining Time
+
+One of the biggest issues with the Shortest Job First algorithm is that long jobs may never get completed when short jobs keep 'jumping the queue'. The **Shortest Remaining Time** algorithm fixes this, by instead ordering jobs by how much time they have remaining, rather than total length.
+
+Advantages:
++ It allows short processes to be handled very quickly
++ It ensures the maximum number of processes are completed in a given time
+
+Disadvantages
++ It does not take into account how important a job is. An important, high priority job will have to wait just as long as an unimportant, low priority job
++ Particularly, super long
 ___
 ### References
