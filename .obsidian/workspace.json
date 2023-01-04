@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86e9c5cf6d67905b",
@@ -164,6 +165,8 @@
   },
   "active": "26c7542916495a6c",
   "lastOpenFiles": [
+    "Attachments/Data-Bus-Address-Bus-Control-Bus.png",
+    "Zettlekasten/Function of Operating Systems.md",
     "Zettlekasten/Memory Managment.md",
     "Zettlekasten/Purpose of Operating System.md",
     "Zettlekasten/Registers.md",
@@ -171,8 +174,6 @@
     "Zettlekasten/ALU (Arithmetic Logic Unit).md",
     "Zettlekasten/CPU (Central Processing Unit).md",
     "Zettlekasten/Buses.md",
-    "Zettlekasten/Computer Science.md",
-    "Zettlekasten/Untitled 1.md",
-    "Templates/Zettle Note Template.md"
+    "Zettlekasten/Computer Science.md"
   ]
 }
