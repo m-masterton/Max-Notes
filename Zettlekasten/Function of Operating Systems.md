@@ -29,7 +29,7 @@ The operating system has four main parts:
 >The **kernel** is the core of the operating system that manages and controls the operations of the computer and the hardware, most importantly the CPU and memory. Kernels also provide facilities which programs can use through system calls.
 
 The kernel has the task of:
-+ Memory Management
++ [[Memory Managment]]
 + Scheduling
 + File Storage and File Management
 

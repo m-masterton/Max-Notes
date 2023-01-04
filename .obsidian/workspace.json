@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Function of Operating Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a5aa1a50c35a113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/Function of Operating Systems.md",
+                "file": "Zettlekasten/Memory Managment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86e9c5cf6d67905b",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Function of Operating Systems.md",
+                "file": "Zettlekasten/Memory Managment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/Function of Operating Systems.md",
+                "file": "Zettlekasten/Memory Managment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/Function of Operating Systems.md"
+                "file": "Zettlekasten/Memory Managment.md"
               }
             }
           },
@@ -175,10 +163,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9a5aa1a50c35a113",
+  "active": "26c7542916495a6c",
   "lastOpenFiles": [
-    "Zettlekasten/Memory Managment.md",
     "Zettlekasten/Function of Operating Systems.md",
+    "Zettlekasten/Memory Managment.md",
     "Attachments/Data-Bus-Address-Bus-Control-Bus.png",
     "Zettlekasten/Purpose of Operating System.md",
     "Zettlekasten/Registers.md",
