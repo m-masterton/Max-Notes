@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a79e224b3bb84575",
+        "id": "d0608a92296c65e3",
         "type": "tabs",
         "children": [
           {
-            "id": "f55a1d222f3fa33d",
+            "id": "f453be8434be9352",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Zettle Note Template.md",
+                "file": "Zettlekasten/CPU (Central Processing Unit).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86e9c5cf6d67905b",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Zettle Note Template.md",
+                "file": "Zettlekasten/CPU (Central Processing Unit).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Zettle Note Template.md",
+                "file": "Zettlekasten/CPU (Central Processing Unit).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Zettle Note Template.md"
+                "file": "Zettlekasten/CPU (Central Processing Unit).md"
               }
             }
           },
@@ -162,10 +163,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f55a1d222f3fa33d",
+  "active": "f453be8434be9352",
   "lastOpenFiles": [
-    "Templates/MOC Template.md",
+    "Zettlekasten/Untitled 1.md",
     "Templates/Zettle Note Template.md",
+    "Templates/MOC Template.md",
     "Zettlekasten/Untitled.md",
     "Zettlekasten/Test File.md",
     "Templates/Note Template.md",
