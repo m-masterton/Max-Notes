@@ -11,8 +11,12 @@
             "id": "6a8f7cbf56aa6ab9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Test File.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86e9c5cf6d67905b",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettlekasten/Test File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettlekasten/Test File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettlekasten/Test File.md"
+              }
             }
           },
           {
@@ -155,7 +163,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "97db90198f335209",
+  "active": "6a8f7cbf56aa6ab9",
   "lastOpenFiles": [
     "Templates/Note Template.md",
     "Test Note.md",

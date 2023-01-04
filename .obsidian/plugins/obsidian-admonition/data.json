@@ -1,5 +1,30 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "defi": {
+      "type": "defi",
+      "color": "58, 125, 221",
+      "icon": {
+        "name": "pencil-ruler",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "prop": {
+      "type": "prop",
+      "color": "255, 130, 178",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Proposition",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.0.5",
@@ -11,9 +36,9 @@
   "hideEmpty": false,
   "open": {
     "admonitions": true,
-    "icons": true,
-    "other": true,
-    "advanced": false
+    "icons": false,
+    "other": false,
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,
