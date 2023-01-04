@@ -74,6 +74,26 @@ Advantages:
 
 Disadvantages
 + It does not take into account how important a job is. An important, high priority job will have to wait just as long as an unimportant, low priority job
-+ Particularly, super long
++ Particularly, super long jobs may never complete if shorter jobs continually keep 'jumping the queue'
+
+### Multi-Level Feedback Queues
+
+All other algorithms discussed here share a common weakness, they do not take into account the importance of each job. One type of algorithm that does is **Multi Level Feedback Queue** algorithms.
+
+These algorithms maintain a number of queues with different priority levels, every job is given a priority by the scheduler when it arrives and is sorted into the relevant queue. The queues themselves are sorted by one of the algorithms featured above. The high priority queue is completed first, and then each of the lower level queues in turn.
+
+The scheduler is able to re-prioritise jobs at any time, this may be because of new information or just because a low priority job has been waiting for too long already
+
+Advantages:
++ Makes sophisticated use of process priority
++ It ensures that higher priority processes run on time
+
+Disadvantages:
++ Complicated to implement
++ Not very efficient if all jobs have a similar priority
+
 ___
 ### References
+
+[Teach-ICT - Operating System - Scheduling](https://teach-ict.com/2016/A_Level_Computing/OCR_H446/1_2_software/121_operating_systems/scheduling/miniweb/index.php)
+PG Online - A-Level OCR Computer Science Textbook - Pages 32-33
