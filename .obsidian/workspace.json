@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a5aa1a50c35a113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Function of Operating Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "86e9c5cf6d67905b",
@@ -163,11 +175,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "26c7542916495a6c",
+  "active": "9a5aa1a50c35a113",
   "lastOpenFiles": [
-    "Attachments/Data-Bus-Address-Bus-Control-Bus.png",
-    "Zettlekasten/Function of Operating Systems.md",
     "Zettlekasten/Memory Managment.md",
+    "Zettlekasten/Function of Operating Systems.md",
+    "Attachments/Data-Bus-Address-Bus-Control-Bus.png",
     "Zettlekasten/Purpose of Operating System.md",
     "Zettlekasten/Registers.md",
     "Zettlekasten/CU (Control Unit).md",
