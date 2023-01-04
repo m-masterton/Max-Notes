@@ -11,12 +11,8 @@
             "id": "e60393ab6b43b6f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/Registers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Registers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/Registers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettlekasten/Registers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,15 +156,15 @@
   },
   "active": "e60393ab6b43b6f0",
   "lastOpenFiles": [
+    "Zettlekasten/Registers.md",
+    "Zettlekasten/CU (Control Unit).md",
+    "Zettlekasten/Computer Science.md",
     "Zettlekasten/ALU (Arithmetic Logic Unit).md",
     "Zettlekasten/CPU (Central Processing Unit).md",
-    "Zettlekasten/CU (Control Unit).md",
-    "Zettlekasten/Registers.md",
     "Zettlekasten/Untitled 1.md",
     "Templates/Zettle Note Template.md",
     "Templates/MOC Template.md",
     "Zettlekasten/Test File.md",
-    "Templates/Note Template.md",
-    "Test Note.md"
+    "Templates/Note Template.md"
   ]
 }

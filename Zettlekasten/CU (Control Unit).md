@@ -9,7 +9,7 @@ The **CU (Control Unit)** controls the operation of the [[CPU (Central Processin
 2. It controls the flow of data between the CPU and other components
 3. It executes the instructions provided by a program. It does this by accepting the next instruction, decoding it into several sequential steps (e.g. fetching addresses/data from memory, doing calculations), manages its execution and stores the resulting data back in memory or registers.
 
-The collection of instructions that can be carried out by the CU is called the **instruction set** of the CU.
+The collection of instructions that can be carried out by the CU is called the **instruction set** of the CU. An instruction consists of an **opcode** (the instruction that is executed) and **operand** (the data or memory location used to execute the instruction)
 
 ___
 ### References
