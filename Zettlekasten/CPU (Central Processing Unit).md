@@ -21,3 +21,6 @@ As you can see from the diagram above, there are three main buses that connect a
 
 ___
 ## References
+
+[Teach-ICT - Architecture - Purpose of CPU](https://teach-ict.com/2016/A_Level_Computing/OCR_H446/1_1_characteristics_components/111_architecture/parts_of_cpu/miniweb/index.php)
+[Teach-ICT - Architecture -Parts of a CPU](https://teach-ict.com/2016/A_Level_Computing/OCR_H446/1_1_characteristics_components/111_architecture/parts_of_cpu/miniweb/pg2.php)
