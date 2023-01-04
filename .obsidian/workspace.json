@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09c31a04a399ea79",
+        "id": "9449702021590ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "26c7542916495a6c",
+            "id": "02d3034707399524",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Interrupts and Polling.md",
+                "file": "Zettlekasten/Processor Scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Interrupts and Polling.md",
+                "file": "Zettlekasten/Processor Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/Interrupts and Polling.md",
+                "file": "Zettlekasten/Processor Scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/Interrupts and Polling.md"
+                "file": "Zettlekasten/Processor Scheduling.md"
               }
             }
           },
@@ -162,8 +162,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "26c7542916495a6c",
+  "active": "02d3034707399524",
   "lastOpenFiles": [
+    "Zettlekasten/Computer Science.md",
     "Zettlekasten/Interrupts and Polling.md",
     "Zettlekasten/Memory Management.md",
     "Zettlekasten/Function of Operating Systems.md",
@@ -172,7 +173,6 @@
     "Zettlekasten/Registers.md",
     "Zettlekasten/CU (Control Unit).md",
     "Zettlekasten/ALU (Arithmetic Logic Unit).md",
-    "Zettlekasten/CPU (Central Processing Unit).md",
-    "Zettlekasten/Buses.md"
+    "Zettlekasten/CPU (Central Processing Unit).md"
   ]
 }

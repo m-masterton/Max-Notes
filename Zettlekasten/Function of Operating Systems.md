@@ -31,6 +31,7 @@ The operating system has four main parts:
 The kernel has the task of:
 + [[Memory Management]]
 + Scheduling
++ [[Interrupts and Polling|Handling Interrupts]]
 + File Storage and File Management
 
 ### Device Drivers

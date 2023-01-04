@@ -26,5 +26,9 @@ It is similar in the CPU where the program currently running will be checking re
 When the CPU receives an interrupt signal, it comes with a **priority label** telling the CPU how urgent the interrupt task is. If the interrupt has a higher priority than the current process, the CPU will suspend the current process by putting the values of the program counter (and each register onto the system stack, while an **Interrupt Service Routine** is called to deal with the interrupt task. Once the interrupt has been serviced, the original values of the registers are restored from the stack and the process resumes from the point it left off.
 
 Note that lower priority interrupts may be disabled while a higher priority interrupt is serviced.
+
 ___
 ### References
+
+[Teach-ICT - Operating System - Interrupts and Polling](https://teach-ict.com/2016/A_Level_Computing/OCR_H446/1_2_software/121_operating_systems/interrupts/miniweb/index.php)
+PG Online - A-Level OCR Computer Science Textbook - Page 32
