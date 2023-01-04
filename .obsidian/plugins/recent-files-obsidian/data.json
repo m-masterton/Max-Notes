@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "BIOS",
+      "path": "Zettlekasten/BIOS.md"
+    },
+    {
       "basename": "Types of Operating Systems",
       "path": "Zettlekasten/Types of Operating Systems.md"
-    },
-    {
-      "basename": "Memory Management",
-      "path": "Zettlekasten/Memory Management.md"
-    },
-    {
-      "basename": "Function of Operating Systems",
-      "path": "Zettlekasten/Function of Operating Systems.md"
     },
     {
       "basename": "Interrupts and Polling",
@@ -19,6 +15,14 @@
     {
       "basename": "Processor Scheduling",
       "path": "Zettlekasten/Processor Scheduling.md"
+    },
+    {
+      "basename": "Memory Management",
+      "path": "Zettlekasten/Memory Management.md"
+    },
+    {
+      "basename": "Function of Operating Systems",
+      "path": "Zettlekasten/Function of Operating Systems.md"
     },
     {
       "basename": "Zettle Note Template",
