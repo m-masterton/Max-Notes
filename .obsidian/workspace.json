@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a41c259ddea54916",
+        "id": "a79e224b3bb84575",
         "type": "tabs",
         "children": [
           {
-            "id": "08ee29e06356947c",
+            "id": "f55a1d222f3fa33d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Zettle Note Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Zettle Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Zettle Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Zettle Note Template.md"
+              }
             }
           },
           {
@@ -154,7 +162,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "08ee29e06356947c",
+  "active": "f55a1d222f3fa33d",
   "lastOpenFiles": [
     "Templates/MOC Template.md",
     "Templates/Zettle Note Template.md",

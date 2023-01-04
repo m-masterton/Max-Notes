@@ -1,5 +1,9 @@
 {
   "attachmentFolderPath": "Attachments",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Zettlekasten"
+  "newFileFolderPath": "Zettlekasten",
+  "rightToLeft": false,
+  "spellcheck": true,
+  "vimMode": true,
+  "legacyEditor": false
 }
