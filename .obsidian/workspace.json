@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "405f7d2503ae3c0d",
+        "id": "09c31a04a399ea79",
         "type": "tabs",
         "children": [
           {
-            "id": "83c8889bf8099ec0",
+            "id": "26c7542916495a6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Purpose of Operating System.md",
+                "file": "Zettlekasten/Function of Operating Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "86e9c5cf6d67905b",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Purpose of Operating System.md",
+                "file": "Zettlekasten/Function of Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/Purpose of Operating System.md",
+                "file": "Zettlekasten/Function of Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/Purpose of Operating System.md"
+                "file": "Zettlekasten/Function of Operating Systems.md"
               }
             }
           },
@@ -163,8 +162,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "83c8889bf8099ec0",
+  "active": "26c7542916495a6c",
   "lastOpenFiles": [
+    "Zettlekasten/Memory Managment.md",
+    "Zettlekasten/Purpose of Operating System.md",
     "Zettlekasten/Registers.md",
     "Zettlekasten/CU (Control Unit).md",
     "Zettlekasten/ALU (Arithmetic Logic Unit).md",
@@ -172,8 +173,6 @@
     "Zettlekasten/Buses.md",
     "Zettlekasten/Computer Science.md",
     "Zettlekasten/Untitled 1.md",
-    "Templates/Zettle Note Template.md",
-    "Templates/MOC Template.md",
-    "Zettlekasten/Test File.md"
+    "Templates/Zettle Note Template.md"
   ]
 }
