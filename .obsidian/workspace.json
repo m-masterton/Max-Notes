@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Memory Managment.md",
+                "file": "Zettlekasten/Interrupts and Polling.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "86e9c5cf6d67905b",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Memory Managment.md",
+                "file": "Zettlekasten/Interrupts and Polling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/Memory Managment.md",
+                "file": "Zettlekasten/Interrupts and Polling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/Memory Managment.md"
+                "file": "Zettlekasten/Interrupts and Polling.md"
               }
             }
           },
@@ -165,15 +164,15 @@
   },
   "active": "26c7542916495a6c",
   "lastOpenFiles": [
+    "Zettlekasten/Memory Management.md",
+    "Zettlekasten/Interrupts and Polling.md",
     "Zettlekasten/Function of Operating Systems.md",
-    "Zettlekasten/Memory Managment.md",
     "Attachments/Data-Bus-Address-Bus-Control-Bus.png",
     "Zettlekasten/Purpose of Operating System.md",
     "Zettlekasten/Registers.md",
     "Zettlekasten/CU (Control Unit).md",
     "Zettlekasten/ALU (Arithmetic Logic Unit).md",
     "Zettlekasten/CPU (Central Processing Unit).md",
-    "Zettlekasten/Buses.md",
-    "Zettlekasten/Computer Science.md"
+    "Zettlekasten/Buses.md"
   ]
 }

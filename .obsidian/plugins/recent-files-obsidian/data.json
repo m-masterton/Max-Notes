@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Memory Managment",
-      "path": "Zettlekasten/Memory Managment.md"
+      "basename": "Interrupts and Polling",
+      "path": "Zettlekasten/Interrupts and Polling.md"
+    },
+    {
+      "basename": "Memory Management",
+      "path": "Zettlekasten/Memory Management.md"
     },
     {
       "basename": "Function of Operating Systems",

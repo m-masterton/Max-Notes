@@ -18,9 +18,15 @@ Using a paging system, memory is divided into fixed size **pages** of 4kB each, 
 **Segmentation** is the logical division of the address space into varying length segments which depend on the program structure. As with paging, it is possible to load only a part of a program into memory initially
 
 Similarities:
-1. Both are a way of dividing up memory
-2. Both are assigned by the memory manager as and when they are needed.
-3. Both are a
+1. Both allow programs to run despite insufficient memory
+2. Pages and segments are stored on disk
+3. Pages and segments are transferred into memory when needed
+
+Differences:
+1. Pages are fixed sized but segments can be different sizes
+2. Pages are made to fit into sections of memory whereas segments are complete sections of programs
+3. Pages are physical divisions whereas segments are logical divisions
+
 ### Virtual Memory
 
 >[!defi] Definition (Virtual Memory)
@@ -30,3 +36,6 @@ Notice that if a large number of processes use up all the available memory (and 
 
 ___
 ### References
+
+[Craig'n'Dave - OCR A Level (H046-H446) Paging, segmentation and virtual memory](https://www.youtube.com/watch?v=O4nwUqQodAg)
+PG Online - A-Level OCR Computer Science Textbook - Page 31

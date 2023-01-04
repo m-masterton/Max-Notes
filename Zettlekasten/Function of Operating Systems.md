@@ -7,7 +7,7 @@ ___
 ### Purpose of an Operating System
 
 >[!defi] Definition (Operating System)
-> An **operating system** is a piece of software that lets people interact with a computer and manages computer hardware and software resources. It also provides services for computer programs. Common examples include Microsoft Windows, macOS, Linux, iOS and Android.
+>An **operating system** is a piece of software that lets people interact with a computer and manages computer hardware and software resources. It also provides services for computer programs. Common examples include Microsoft Windows, macOS, Linux, iOS and Android.
 
 Operating systems need to:
 + Control the hardware of a computer system
@@ -29,14 +29,14 @@ The operating system has four main parts:
 >The **kernel** is the core of the operating system that manages and controls the operations of the computer and the hardware, most importantly the CPU and memory. Kernels also provide facilities which programs can use through system calls.
 
 The kernel has the task of:
-+ [[Memory Managment]]
++ [[Memory Management]]
 + Scheduling
 + File Storage and File Management
 
 ### Device Drivers
 
 >[!defi] Definition (Device Driver)
-> A **device driver** is a computer program that provides a software interface to hardware devices, enabling operating systems to access hardware functions and communicate with the device.
+>A **device driver** is a computer program that provides a software interface to hardware devices, enabling operating systems to access hardware functions and communicate with the device.
 
 Usually, the company who made the hardware creates the associated driver and hands it to the operating system proprietor to bundle with their operating system.
 
