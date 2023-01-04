@@ -9,12 +9,12 @@
       "path": "Zettlekasten/Memory Management.md"
     },
     {
-      "basename": "Function of Operating Systems",
-      "path": "Zettlekasten/Function of Operating Systems.md"
-    },
-    {
       "basename": "Interrupts and Polling",
       "path": "Zettlekasten/Interrupts and Polling.md"
+    },
+    {
+      "basename": "Function of Operating Systems",
+      "path": "Zettlekasten/Function of Operating Systems.md"
     },
     {
       "basename": "Zettle Note Template",
