@@ -162,8 +162,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "da9da4ad3a3ae8e6",
+  "active": "02d3034707399524",
   "lastOpenFiles": [
+    "Zettlekasten/Binary Operation.md",
+    "Templates/Zettle Note Template.md",
     "Zettlekasten/Software Development Models.md",
     "Zettlekasten/Processor Scheduling.md",
     "Zettlekasten/Function of Operating Systems.md",
@@ -171,8 +173,6 @@
     "Zettlekasten/Interrupts and Polling.md",
     "Zettlekasten/Types of Operating Systems.md",
     "Zettlekasten/Memory Management.md",
-    "Templates/Zettle Note Template.md",
-    "Templates/MOC Template.md",
-    "Zettlekasten/Computer Science.md"
+    "Templates/MOC Template.md"
   ]
 }
