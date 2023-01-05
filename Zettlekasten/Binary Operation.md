@@ -28,7 +28,7 @@ ___
 >
 >Note that when $*$ is commutative, the three conditions above are logically equivalent
 
-
-
 ___
 ### References
+
+A Concise Introduction to Pure Mathematics, Pages 225-226

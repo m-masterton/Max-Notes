@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Binary Operation.md",
+                "file": "Zettlekasten/Groups.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "be806820ad715dec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Binary Operation.md",
+                "file": "Zettlekasten/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/Binary Operation.md",
+                "file": "Zettlekasten/Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/Binary Operation.md"
+                "file": "Zettlekasten/Groups.md"
               }
             }
           },
@@ -165,14 +173,14 @@
   "active": "02d3034707399524",
   "lastOpenFiles": [
     "Zettlekasten/Binary Operation.md",
+    "Zettlekasten/Groups.md",
+    "Templates/MOC Template.md",
     "Templates/Zettle Note Template.md",
     "Zettlekasten/Software Development Models.md",
     "Zettlekasten/Processor Scheduling.md",
     "Zettlekasten/Function of Operating Systems.md",
     "Zettlekasten/BIOS.md",
     "Zettlekasten/Interrupts and Polling.md",
-    "Zettlekasten/Types of Operating Systems.md",
-    "Zettlekasten/Memory Management.md",
-    "Templates/MOC Template.md"
+    "Zettlekasten/Types of Operating Systems.md"
   ]
 }
