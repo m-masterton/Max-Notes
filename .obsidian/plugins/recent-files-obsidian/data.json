@@ -5,12 +5,12 @@
       "path": "Zettlekasten/Sets.md"
     },
     {
-      "basename": "Groups",
-      "path": "Zettlekasten/Groups.md"
-    },
-    {
       "basename": "Binary Operations",
       "path": "Zettlekasten/Binary Operations.md"
+    },
+    {
+      "basename": "Groups",
+      "path": "Zettlekasten/Groups.md"
     },
     {
       "basename": "MOC Template",
