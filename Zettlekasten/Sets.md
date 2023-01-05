@@ -63,8 +63,16 @@ and $$A_1 \cap \ldots \cap A_n = \bigcap_{i=1}^n A_i.$$
 >[!definition] Definition (Set Difference)
 >If $A$ and $B$ are sets, their **difference** is define to be the set $$A - B = \{x : x \in A \text{ and } x \notin B\}.$$
 
+>[!example]
+>For example $\{1,2,3,4\} - \{2,4\} = \{1,3\}$. And $\mathbb{R}^* = \mathbb{R}- \{0\}$, the set of non-zero real numbers.
 
+### Cartesian Products
 
+>[!definition] Definition (Ordered Pair)
+>An **ordered pair** $(a,b)$ is a pair of two items in which ordered matters. Formally, it is defined as $\{\{a\}, \{a,b\}\}$. We have $(a,b) = (a',b')$ if and only if $a = a'$ and $b = b'$.
+
+>[!definition] Definition (Cartesian Product)
+>Given two sets $A$, $B$, the **Cartesian product** of $A$ and $B$ is $A \times B = \{(a,b) : a \in A, b \in B\}$. This can be extended to $n$ products, e.g. $\mathbb{R}^3 = \mathbb{R} \times \mathbb{R} \times $
 
 ___
 ### References
