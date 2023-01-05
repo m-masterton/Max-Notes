@@ -36,6 +36,18 @@
       "title": "Proof",
       "injectColor": true,
       "noTitle": false
+    },
+    "theorem": {
+      "type": "theorem",
+      "color": "83, 223, 221",
+      "icon": {
+        "name": "lightbulb",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Theorem",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
