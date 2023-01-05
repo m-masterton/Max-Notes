@@ -25,7 +25,8 @@ ___
 >+ the binary operation $*$ is **left-distributive** over $+$ if, for all $a, b, c \in S$ we have $$a * (b + c) = (a * b) + (a * c);$$
 >+ the binary operation $*$ is **right-distributive** over $+$ if, for all $a, b, c \in S$ we have $$(b + c) * a = (b * a) + (c * a);$$
 >+ and the operation $*$ is **distributive** over $+$ if it is both left- and right-distributive.
->Note that when $*$ *
+>
+>Note that when $*$ is commutative, the three conditions above are logically equivalent
 
 
 
