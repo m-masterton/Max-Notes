@@ -1,5 +1,43 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "definition": {
+      "type": "definition",
+      "color": "2, 122, 255",
+      "icon": {
+        "type": "obsidian",
+        "name": "pencil"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "proposition": {
+      "type": "proposition",
+      "color": "233, 151, 63",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Proposition",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "proof": {
+      "type": "proof",
+      "color": "68, 207, 110",
+      "icon": {
+        "name": "check",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Proof",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.0.5",

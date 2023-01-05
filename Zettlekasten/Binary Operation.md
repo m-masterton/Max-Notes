@@ -1,1 +1,2 @@
-
+>[!definition] Definition (Binary Operation)
+>Let $S$ be a set. A *binary operation* $*$ on $S$ is a rule which assigns to any ordered pair $(a,b)$ where $a,b \in S$ an element $a * b \in S$. Formally, it is a function from
