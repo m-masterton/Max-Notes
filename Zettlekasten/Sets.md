@@ -25,6 +25,8 @@ Suppose $X$ is a set and $P$ is the property of some elements in $X$, we can wri
 >+ $\mathbb{C}$ is the complex numbers
 >+ $\emptyset$ is the empty set (set with no elements)
 
+We call $S$ a **finite** set if it only has a finite number of elements. If $S$ has $n$ elements, we write $|S| = n$. 
+
 ### Equality of Sets and Subsets
 
 >[!definition] Definition (Equality of Sets)
@@ -72,7 +74,14 @@ and $$A_1 \cap \ldots \cap A_n = \bigcap_{i=1}^n A_i.$$
 >An **ordered pair** $(a,b)$ is a pair of two items in which ordered matters. Formally, it is defined as $\{\{a\}, \{a,b\}\}$. We have $(a,b) = (a',b')$ if and only if $a = a'$ and $b = b'$.
 
 >[!definition] Definition (Cartesian Product)
->Given two sets $A$, $B$, the **Cartesian product** of $A$ and $B$ is $A \times B = \{(a,b) : a \in A, b \in B\}$. This can be extended to $n$ products, e.g. $\mathbb{R}^3 = \mathbb{R} \times \mathbb{R} \times $
+>Given two sets $A$, $B$, the **Cartesian product** of $A$ and $B$ is $A \times B = \{(a,b) : a \in A, b \in B\}$. This can be extended to $n$ products, e.g. $\mathbb{R}^3 = \mathbb{R} \times \mathbb{R} \times \mathbb{R} = \{(x,y,z) : x, y, z \in \mathbb{R}\}$ (which is technically $\{(x,(y,z)) : x, y, z \in \mathbb{R}\}$).
+
+>[!example]
+>For example if $A = \{1,2\}$ and $B = \{1,4,5\}$, then $A \times B$ consists of the six ordered pairs $$(1,1), (1,4), (1,5), (2,1), (2,4), (2,5).$$
+
+### The Inclusion-Exclusion Principle
+
+
 
 ___
 ### References

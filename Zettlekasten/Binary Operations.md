@@ -4,6 +4,8 @@ Tags: [[Mathematics]] [[Abstract Algebra]]
 
 ___
 
+### Definition and Examples
+
 >[!definition] Definition (Binary Operation)
 >Let $S$ be a set. A **binary operation** $*$ on $S$ is a rule which assigns to any ordered pair $(a,b)$ where $a,b \in S$ an element $a * b \in S$. Formally, it is a function from $S \times S \to S$.
 
@@ -13,6 +15,8 @@ ___
 >2. $S = \mathbb{C}$, $a * b = ab$ for all $a, b \in S$.
 >3. $S = \mathbb{R}$, $a * b = \frac{a + b}{2}$ for all $a, b \in S$.
 >4. Let $S = S_n$ (the set of all permutations of $\{1, 2, \ldots, n\}$), and for $f, g \in S$ define $f * g = f \circ g$, the composition of permutations $f$ and $g$.
+
+### Commutativity, Associativity and Distributivity
 
 >[!definition] Definition (Commutativity)
 >A binary operation $*$ on $S$ is **commutative** if, for all $a, b \in S$ we have $$a * b = b * a.$$
