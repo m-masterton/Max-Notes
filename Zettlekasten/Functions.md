@@ -43,6 +43,13 @@ ___
 
 Given a function $f: S \to T$, under what circumstances can define an inverse function from $T$ to $S$, sending everything back to where it came from. To define such a function, we need:
 1. $f$ to be onto (otherwise some elements of $T$ will not have anywhere to go),
-2. $f$ to be 
+2. $f$ to be one-to-one (otherwise some elements of $T$ will have multiple places to go)
+In other words, $f$ must be a bijection.
+
+>[!definition] Definition (Inverse Function)
+>Let $f: S \to T$ be a bijection. The **inverse** function of $f$ is the function from $T \to S$ that sends each $t \in T$ to the unique $s \in S$ such that $f(s) = t$. We denote the inverse function by $f^{-1} : T \to S$. Thus, for $s \in S$, $t \in T$, $$f^{-1} (T) = s \iff f(s) = t.$$ 
+
+
+
 ___
 ### References
