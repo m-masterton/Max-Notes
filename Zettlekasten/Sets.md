@@ -25,7 +25,7 @@ Suppose $X$ is a set and $P$ is the property of some elements in $X$, we can wri
 >+ $\mathbb{C}$ is the complex numbers
 >+ $\emptyset$ is the empty set (set with no elements)
 
-We call $S$ a **finite** set if it only has a finite number of elements. If $S$ has $n$ elements, we write $|S| = n$. 
+We call $S$ a **finite** set if it only has a finite number of elements. If $S$ has $n$ elements, we write $|S| = n$. If a set is not finite, it is said to be an **infinite** set.
 
 ### Equality of Sets and Subsets
 
@@ -80,6 +80,20 @@ and $$A_1 \cap \ldots \cap A_n = \bigcap_{i=1}^n A_i.$$
 >For example if $A = \{1,2\}$ and $B = \{1,4,5\}$, then $A \times B$ consists of the six ordered pairs $$(1,1), (1,4), (1,5), (2,1), (2,4), (2,5).$$
 
 ### The Inclusion-Exclusion Principle
+
+>[!proposition]
+>If $A$ and $B$ are finite sets, then $$|A \cup B| = |A| + |B| - |A \cap B|.$$
+
+>[!proof]
+>Let $|A \cap B| = k$, say $A \cap B = \{x_1, \ldots, x_k\}$. These elements, and no others belong to both $A$ and $B$, so we can write $$A = \{x_1, \ldots, x_k, a_1, \ldots, a_l\},$$ $$B = \{x_1, \ldots, x_k, b_1, \ldots, b_m\},$$
+>where $|A| = k + l$ and $|B| = k + m$. Then $$|A \cup B| = \{x_1, \ldots, x_k, a_1, \ldots, a_l, b_1, \ldots, b_m\},$$ and all these elements are different, so $$\begin{align*} |A \cup B| = k + l + m &= (k + l) + (k + m) - k \\ &= |A| + |B| - |A \cap B|. \end{align*}$$
+
+This can be generalized to any number of sets
+
+>[!theorem] Theorem (Inclusion-Exclusion Principle)
+>Let $n$ be a positive integer, and let $A_1, \ldots, A_n$ be finite sets. Then $$|A_1 \cup \cdots \cup A_n| = c_1 - c_2 + c_3 - \cdots + (-1)^n c_n,$$ where for $1 \leqslant i \leqslant n$, the number $c_i$ is the sum of the sizes of the intersections taken $i$ at a time.
+
+In case any clarification is needed, for $n=3$ we have $$\begin{align*} c_1 &= |A_1| + |A_2| + |A_3|, \\ c_2 &= |A_1 \cap A_2| + |A_1 \cap A_3| + |A_2 \cap A_3|,\\ c_3 &= |A_1 \cap A_2 \cap A_3|.\end{align*}$$
 
 
 

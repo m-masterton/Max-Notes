@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Binary Operations.md",
+                "file": "Zettlekasten/Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,8 @@
             "id": "b5dcd349de3b2bab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/Sets.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -39,8 +35,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,17 +179,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b5dcd349de3b2bab",
+  "active": "02d3034707399524",
   "lastOpenFiles": [
-    "Zettlekasten/Sets.md",
     "Zettlekasten/Binary Operations.md",
     "Zettlekasten/Groups.md",
+    "Zettlekasten/Sets.md",
+    "Zettlekasten/Binar.md",
     "Templates/MOC Template.md",
     "Templates/Zettle Note Template.md",
     "Zettlekasten/Software Development Models.md",
     "Zettlekasten/Processor Scheduling.md",
     "Zettlekasten/Function of Operating Systems.md",
-    "Zettlekasten/BIOS.md",
-    "Zettlekasten/Interrupts and Polling.md"
+    "Zettlekasten/BIOS.md"
   ]
 }

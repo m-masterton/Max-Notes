@@ -7,7 +7,7 @@ ___
 ### Definition and Examples
 
 >[!definition] Definition (Binary Operation)
->Let $S$ be a set. A **binary operation** $*$ on $S$ is a rule which assigns to any ordered pair $(a,b)$ where $a,b \in S$ an element $a * b \in S$. Formally, it is a function from $S \times S \to S$.
+>Let $S$ be a [[Sets|set]]. A **binary operation** $*$ on $S$ is a rule which assigns to any [[Sets#Cartesian Products|ordered pair]] $(a,b)$ where $a,b \in S$ an element $a * b \in S$. Formally, it is a function from $S \times S \to S$.
 
 >[!example] Example
 >Here are a few examples of binary operations:
