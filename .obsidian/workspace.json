@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9449702021590ff1",
+        "id": "5c251c595e44e638",
         "type": "tabs",
         "children": [
           {
-            "id": "02d3034707399524",
+            "id": "90c1b176a5cf6fb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Sets.md",
+                "file": "Zettlekasten/Groups.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b5dcd349de3b2bab",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "be806820ad715dec",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "86e9c5cf6d67905b",
@@ -110,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Sets.md",
+                "file": "Zettlekasten/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/Sets.md",
+                "file": "Zettlekasten/Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/Sets.md"
+                "file": "Zettlekasten/Groups.md"
               }
             }
           },
@@ -179,17 +162,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "02d3034707399524",
+  "active": "90c1b176a5cf6fb6",
   "lastOpenFiles": [
-    "Zettlekasten/Binary Operations.md",
-    "Zettlekasten/Groups.md",
     "Zettlekasten/Sets.md",
-    "Zettlekasten/Binar.md",
-    "Templates/MOC Template.md",
+    "Zettlekasten/Groups.md",
+    "Zettlekasten/Binary Operations.md",
+    "Zettlekasten/Untitled.md",
     "Templates/Zettle Note Template.md",
+    "Templates/MOC Template.md",
+    "Zettlekasten/Forces.md",
+    "Zettlekasten/Binar.md",
     "Zettlekasten/Software Development Models.md",
-    "Zettlekasten/Processor Scheduling.md",
-    "Zettlekasten/Function of Operating Systems.md",
-    "Zettlekasten/BIOS.md"
+    "Zettlekasten/Processor Scheduling.md"
   ]
 }

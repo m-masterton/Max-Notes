@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Groups",
+      "path": "Zettlekasten/Groups.md"
+    },
+    {
       "basename": "Sets",
       "path": "Zettlekasten/Sets.md"
     },
@@ -9,16 +13,12 @@
       "path": "Zettlekasten/Binary Operations.md"
     },
     {
-      "basename": "Groups",
-      "path": "Zettlekasten/Groups.md"
+      "basename": "Zettle Note Template",
+      "path": "Templates/Zettle Note Template.md"
     },
     {
       "basename": "MOC Template",
       "path": "Templates/MOC Template.md"
-    },
-    {
-      "basename": "Zettle Note Template",
-      "path": "Templates/Zettle Note Template.md"
     }
   ],
   "omittedPaths": [],
