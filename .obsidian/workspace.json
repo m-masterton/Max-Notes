@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5c251c595e44e638",
+        "id": "06d65ea10348a5b4",
         "type": "tabs",
         "children": [
           {
-            "id": "90c1b176a5cf6fb6",
+            "id": "9bfa9770626dbeb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettlekasten/Groups.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettlekasten/Groups.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,17 +154,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "90c1b176a5cf6fb6",
+  "active": "da9da4ad3a3ae8e6",
   "lastOpenFiles": [
-    "Zettlekasten/Sets.md",
-    "Zettlekasten/Groups.md",
-    "Zettlekasten/Binary Operations.md",
-    "Zettlekasten/Untitled.md",
-    "Templates/Zettle Note Template.md",
     "Templates/MOC Template.md",
+    "Zettlekasten/Binary Operations.md",
+    "Zettlekasten/Multiplication Princ.md",
+    "Zettlekasten/Abstract Algebra.md",
+    "Zettlekasten/Sets.md",
+    "Zettlekasten/Mathematics.md",
+    "Zettlekasten/Groups.md",
+    "Templates/Zettle Note Template.md",
     "Zettlekasten/Forces.md",
-    "Zettlekasten/Binar.md",
-    "Zettlekasten/Software Development Models.md",
-    "Zettlekasten/Processor Scheduling.md"
+    "Zettlekasten/Binar.md"
   ]
 }

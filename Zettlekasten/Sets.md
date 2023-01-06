@@ -94,8 +94,5 @@ This can be generalized to any number of sets
 >Let $n$ be a positive integer, and let $A_1, \ldots, A_n$ be finite sets. Then $$|A_1 \cup \cdots \cup A_n| = c_1 - c_2 + c_3 - \cdots + (-1)^n c_n,$$ where for $1 \leqslant i \leqslant n$, the number $c_i$ is the sum of the sizes of the intersections taken $i$ at a time.
 
 In case any clarification is needed, for $n=3$ we have $$\begin{align*} c_1 &= |A_1| + |A_2| + |A_3|, \\ c_2 &= |A_1 \cap A_2| + |A_1 \cap A_3| + |A_2 \cap A_3|,\\ c_3 &= |A_1 \cap A_2 \cap A_3|.\end{align*}$$
-
-
-
 ___
 ### References
