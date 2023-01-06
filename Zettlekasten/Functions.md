@@ -41,6 +41,8 @@ ___
 
 ### Inverse Functions
 
-Given a function $f: S \to T$, under what circumstances can define an inverse function from $T$ to $S$, sending everything back to where it came from. TO define 
+Given a function $f: S \to T$, under what circumstances can define an inverse function from $T$ to $S$, sending everything back to where it came from. To define such a function, we need:
+1. $f$ to be onto (otherwise some elements of $T$ will not have anywhere to go),
+2. $f$ to be 
 ___
 ### References

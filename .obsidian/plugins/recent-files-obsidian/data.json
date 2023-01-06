@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Functions",
-      "path": "Zettlekasten/Functions.md"
+      "basename": "Sets",
+      "path": "Zettlekasten/Sets.md"
     },
     {
-      "basename": "Binary Operations",
-      "path": "Zettlekasten/Binary Operations.md"
+      "basename": "Functions",
+      "path": "Zettlekasten/Functions.md"
     },
     {
       "basename": "Groups",
       "path": "Zettlekasten/Groups.md"
     },
     {
-      "basename": "Sets",
-      "path": "Zettlekasten/Sets.md"
-    },
-    {
       "basename": "Pigeonhole Principle",
       "path": "Zettlekasten/Pigeonhole Principle.md"
+    },
+    {
+      "basename": "Binary Operations",
+      "path": "Zettlekasten/Binary Operations.md"
     },
     {
       "basename": "MOC Template",
