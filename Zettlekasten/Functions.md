@@ -33,6 +33,10 @@ ___
 >2. If $f$ is one-to-one then $|F| \leqslant |S|$.
 >3. If $f$ is a bijection then $|F| = |S|$.
 
+>[!proof]
+>1. Let $|S| = n$ and write $S = \{s_1, \ldots, s_n\}$. As $f$ is onto, we have $$T = f(S) = \{f(s_1), f(s_2), \ldots, f(s_n)\}.$$ Hence $|T| \leqslant n$ (of course $|T|$ could be less than $n$, as some of the $f(s_i)'s$ could be the same.)
+>2. Again let $|S| = n$ and write $S = \{s_1, \ldots, s_n\}$. As $f$ is 1-1, the elements $f(s_1), \ldots, f(s_n)$ are all different and lie in $T$. Therefore $|T| \geqslant n$.
+___
 
 ___
 ### References
