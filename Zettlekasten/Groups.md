@@ -15,6 +15,5 @@ The element $e$ is called the **identity element** of $G$ and the element $a^{-1
 
 Note that the closure axiom is not really needed because it is included in the definition of a binary operation. However, when confirming that something is a group, we will have to check that the binary operation is valid on the set, so it is useful to keep it there.
 
-
 ___
 ### References
